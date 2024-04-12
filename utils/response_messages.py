@@ -1,0 +1,5 @@
+SOMETHING_WENT_WRONG = "Something went wrong"
+SUCCESSFUL = "Successful"
+UNSUCCESSFUL = "Unsuccessful"
+NOT_FOUND = "Record not found"
+ID_NOT_PROVIDED = "Record ID not provided"
